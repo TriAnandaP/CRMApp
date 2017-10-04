@@ -1,0 +1,4 @@
+Tri, 21, 321312314234212, Pria, 087781378591, Jl. Sukasari 3 RT/RW 04/06 No. 11, single, Karyawan Swasta, D3, triap26@gmail.com, 16145, 10000000.0, 0, 0, C0002, 07-08-2017, 20000000.0, 7000000.0, 5, 12, 1
+Putri, 27, 32238476232423, Wanita, 082278272112, Jl. Pajajaran No. 212, menikah, PNS, S1, putri@gmail.com, 12321, 10000000.0, 0, 0, C0001, 07-06-2018, 25000000.0, 7500000.0, 10, 10, 0
+Ayunda, 20, 32113532422342, Wanita, 089727228782, Jl. Siliwangi No. 6, menikah, Karyawan BUMN, D2, ayunda@gmail.com, 12321, 4000000.0, 0, 0, C0010, 02-10-2017, 30000000.0, 7500000.0, 10, 10, 0
+Tiara, 32, 32132546456457, Wanita, 086615425265, Jl. Batutulis No. 10, single, Wirausaha, D4, tiara@gmail.com, 12321, 4500000.0, 100000, 0, C0021, 11-12-2017, 40000000.0, 7500000.0, 5, 6, 0
